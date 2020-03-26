@@ -1,5 +1,4 @@
 ### Project Information
-<img src="assets/images/owasp_level_incubator.svg" width="66">
   <span style="font-size: 1.3em;">Incubator Project</span>
 * [Version 1.0.2](https://github.com/SasanLabs/VulnerableApp/releases/tag/1.0.2)
 

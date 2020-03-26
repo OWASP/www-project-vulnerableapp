@@ -11,7 +11,7 @@ pitch: A very brief, one-line description of your project
 
 # About OWASP VulnerableApp
 
-As Web Applications are becoming very popular these days, there comes the needs to secure them and there are many security vulnerability finding tools but while developing those tools the developers need to test those tools and there are no or very less such tools exist. There are vulnerable applications exists in the market but they are not written with such an intent and hence lags extensibility such that new vulnerablities can be added easily.
+As Web Applications are becoming very popular these days, there comes the needs to secure them and there are many security vulnerability finding tools but while developing those tools the developers need to test those tools and there are no or very less such tools exist. There are deliberately vulnerable applications exists in the market but they are not written with such an intent and hence lags extensibility such that adding new vulnerablities is quite difficult.
 
 So generally developer write there own vulnerable applications but that cause productivity loss and also many times rework. 
 This Project VulnerableApp is a build keeping these factors in mind so this project is scalable, extensible, easiers to integrate and easier to learn. 

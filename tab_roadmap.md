@@ -28,7 +28,7 @@ Looking at it, the first approach which comes into my mind is to give a framewor
 
 * Milestone 1: Alpha release - Building extensible backend Platform
 * Milestone 2: Beta release - Building extensible User Interface
-* Milestore 3: Gamma release - Addition of 50 vulnerabilities using the above mentioned Platform
+* Milestone 3: Gamma release - Addition of 50 vulnerabilities using the above mentioned Platform
 * Milestone 4: Release 1 
 * Milestone 5: Dev lifecycle integration
 

@@ -18,16 +18,3 @@
 
 ### Change Log
 * [changes](https://github.com/SasanLabs/VulnerableApp/releases)
-
-Project Information
-Flagship Project
-Code Repository
-GitHub
-
-Tool
-Audience
-Breaker
-Setup
-Docker Image
-Virtual Machine
-Manual

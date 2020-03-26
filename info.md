@@ -10,8 +10,8 @@
 * [Meetup](#)
 
 ### Code Repository
-* [Git repository](https://github.com/SasanLabs/VulnerableApp)
+* [Github Repository](https://github.com/SasanLabs/VulnerableApp)
 
 ### Change Log
-* [changes](#)
+* [changes](https://github.com/SasanLabs/VulnerableApp/releases)
 

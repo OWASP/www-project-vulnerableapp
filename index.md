@@ -9,7 +9,7 @@ pitch: A very brief, one-line description of your project
 
 ---
 
-As Web Applications are becoming very popular these days, there comes the needs to secure them and there are many security vulnerability finding tools but while developing those tools the developers need to test those tools and there are no or very less such tools exist. There are deliberately vulnerable applications exists in the market but they are not written with such an intent and hence lags extensibility e.g. adding new vulnerablities is quite difficult.
+As Web Applications are becoming very popular these days, there comes the needs to secure them and there are many security vulnerability finding tools but while developing those tools developers need to test them but there are no or very less such extensible vulnerable apps for testing those tools. There are deliberately vulnerable applications exists in the market but they are not written with such an intent and hence lags extensibility e.g. adding new vulnerablities is quite difficult.
 
 So generally developer write there own vulnerable applications but that cause productivity loss and also many times rework is done. 
 This Project VulnerableApp is build keeping these factors in mind so this project is scalable, extensible, easiers to integrate and easier to learn. 

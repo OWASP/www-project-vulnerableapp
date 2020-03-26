@@ -25,7 +25,7 @@ Please feel free to reach out to us on our [VulnerableApp Slack Channel](https:/
 
 OWASP is a fantastic place to learn about application security, to network, and even
 to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider
-a [donation](/donate) to support our ongoing work.
+a [donation](/donate?reponame=www-project-vulnerableapp&title=OWASP+VulnerableApp) to support our ongoing work.
 
 [More Information on Project](https://sasanlabs.github.io/VulnerableApp/)
 

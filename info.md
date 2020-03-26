@@ -11,7 +11,7 @@
 
 ### Downloads or Social Links
 * [Download](https://github.com/SasanLabs/VulnerableApp/releases)
-* [Meetup](#)
+* [Slack Channel](https://app.slack.com/client/T04T40NHX/C010GGUT7M1)
 
 ### Code Repository
 * [Github Repository](https://github.com/SasanLabs/VulnerableApp)

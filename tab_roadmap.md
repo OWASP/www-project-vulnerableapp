@@ -26,11 +26,11 @@ Basic idea for this project is to build an extensible framework which is driven 
 
 Looking at it, the first approach which comes into my mind is to give a framework similar to Spring i.e. something like annotation driven framework for including a vulnerability type and also for adding a new vulnerability to existing vulnerability type and also adding User Interface for the same. 
 
-Milestone 1: Alpha release - Building extensible backend Platform
-Milestone 2: Beta release - Building extensible User Interface
-Milestore 3: Gamma release - Addition of 50 vulnerabilities using the above mentioned Platform
-Milestone 4: Release 1 
-Milestone 5: Dev lifecycle integration
+* Milestone 1: Alpha release - Building extensible backend Platform
+* Milestone 2: Beta release - Building extensible User Interface
+* Milestore 3: Gamma release - Addition of 50 vulnerabilities using the above mentioned Platform
+* Milestone 4: Release 1 
+* Milestone 5: Dev lifecycle integration
 
 ### Current State
 For know about the current state please go to [Git Repository](https://github.com/SasanLabs/VulnerableApp) and also visit issues section for new enhancements,tech-debts and bugs.

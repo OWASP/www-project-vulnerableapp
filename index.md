@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP VulnerableApp
-tags:  vulnerable-web-application easy-to-add-security-vulnerability springboot java-8 security zap-payload-testing burp-payload-testing
+tags: VulnerableApp
 level: 2
 type: code
 pitch: A very brief, one-line description of your project

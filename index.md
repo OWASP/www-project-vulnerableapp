@@ -16,5 +16,5 @@ As Web Applications are becoming very popular these days, there comes the needs 
 So generally developer write there own vulnerable applications but that cause productivity loss and also many times rework. 
 This Project VulnerableApp is a build keeping these factors in mind so this project is scalable, extensible, easiers to integrate and easier to learn. 
 
-[!More Information](https://sasanlabs.github.io/VulnerableApp/)
+[More Information](https://sasanlabs.github.io/VulnerableApp/)
 

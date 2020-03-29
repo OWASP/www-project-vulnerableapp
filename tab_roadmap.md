@@ -44,7 +44,8 @@ Technologies used in this project are:
 Majorly:
 1. Java-8
 2. SpringBoot
-3. Vanila Javascript
+3. Vanilla Javascript
+4. Vanilla CSS
 
 But we are not limited to above technologies and can extend to new Horizons.
 Incase you have any idea on technology and how it can suit us, please reach out to us on our [Slack-Channel](https://owasp.slack.com/messages/#owasp-vulnerableapp/).

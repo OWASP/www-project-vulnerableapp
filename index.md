@@ -15,7 +15,7 @@ So generally developer write there own vulnerable applications but that cause pr
 This Project VulnerableApp is build keeping these factors in mind so this project is scalable, extensible, easiers to integrate and easier to learn. 
 
 # Scope
-Scope of this project is not just limited to Payload testing for Dynamic Vulnerablilty Scanning tools but with addition of various kind of vulnerabilities, it can become a very good platform to learn various security vulnerabilities and can also be used to host CTF and in future can become a compliance for Dynamic Vulnerability Scanning tools.
+Scope of this project is not just limited to Payload testing for Dynamic Vulnerability Scanning tools but with addition of various kind of vulnerabilities, it can become a very good platform to learn various security vulnerabilities and can also be used to host CTF and in future can become a compliance for Dynamic Vulnerability Scanning tools.
 
 # Contribution
 Everyone is welcome and encouraged to participate in our [Project](https://github.com/SasanLabs/VulnerableApp).

@@ -22,7 +22,7 @@ This Project mainly targets 4 type of audience:
 
 ### Initial high level plan:
 
-Basic idea for this project is to build an extensible framework which is driven by the configuration and develops who want to introduce new vulnerable code into the project need to do minimal boilerplate code and also the learning curve for configurations is minimum.
+Basic idea for this project is to build an extensible framework which is driven by the configuration and developers who want to introduce new vulnerable code into the project need to do minimal boilerplate code and also the learning curve for configurations is minimum.
 
 Looking at it, the first approach which comes into my mind is to give a framework similar to Spring i.e. something like annotation driven framework for including a vulnerability type and also for adding a new vulnerability to existing vulnerability type and also adding User Interface for the same. 
 

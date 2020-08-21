@@ -1,2 +1,2 @@
 ### Leaders
-* [Karan Preet Singh Sasan](mailto:preetkaran20@gmail.com)
+* [Karan Preet Singh Sasan](mailto:karan.sasan@owasp.org)

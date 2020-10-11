@@ -13,13 +13,6 @@ As Web Applications are becoming popular these days, there comes a dire need to 
 **VulnerableApp** is built keeping these factors in mind. This project is scalable, extensible, easier to integrate and easier to learn.
 As solving the above issue requires addition of various vulnerabilities, hence it becomes a very good platform to learn various security vulnerabilities.
 
-## Technologies used
-- Java8
-- Spring Boot
-- Vanilla Javascript
-
-#### Note: we are not limited to these technologies and if required, open to expand to other technologies.
-
 ## Currently handled Vulnerability types
 
 1. [JWT Vulnerability](https://github.com/SasanLabs/VulnerableApp/blob/master/src/main/java/org/sasanlabs/service/vulnerability/jwt/)

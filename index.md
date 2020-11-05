@@ -5,7 +5,7 @@ title: OWASP VulnerableApp
 tags: VulnerableApp
 level: 2
 type: code
-pitch: A very brief, one-line description of your project
+pitch: VulnerableApp is a delibrately Vulnerable Web Application for Vulnerability Scanning Tool developers, its consumers and students. 
 
 ---
 ![VulnerableApp Logo](https://raw.githubusercontent.com/SasanLabs/VulnerableApp/master/docs/logos/Coloured/iconColoured.png) 
@@ -47,4 +47,10 @@ to build your reputation as an expert. We also encourage you to be [become a mem
 a [donation](/donate?reponame=www-project-vulnerableapp&title=OWASP+VulnerableApp) to support our ongoing work.
 
 [More Information on Project](https://sasanlabs.github.io/VulnerableApp/)
+
+## Blogs/Documentations and other details
+1. [Documentation](https://sasanlabs.github.io/VulnerableApp)
+2. [Overview Video](https://www.youtube.com/watch?v=AjL4B-WwrrA&ab_channel=OwaspVulnerableApp)
+3. [Overview of Owasp-VulnerableApp - Medium article](https://hussaina-begum.medium.com/an-extensible-vulnerable-application-for-testing-the-vulnerability-scanning-tools-cc98f0d94dbc)
+4. [Overview of Owasp-VulnerableApp - Blogspot post](https://hussaina-begum.blogspot.com/2020/10/an-extensible-vulnerable-application.html)
 

@@ -18,7 +18,7 @@ As Web Applications are becoming popular these days, there comes a dire need to 
 **VulnerableApp** is built keeping these factors in mind. This project is scalable, extensible, easier to integrate and easier to learn.
 As solving the above issue requires addition of various vulnerabilities, hence it becomes a very good platform to learn various security vulnerabilities.
 
-![Owasp Vulnerable Graphic Representation](/docs/gifs/VulnerableApp.gif)
+![Owasp Vulnerable Graphic Representation](https://raw.githubusercontent.com/SasanLabs/VulnerableApp/master/docs/gifs/VulnerableApp.gif)
 
 
 ### Glimpse of React based User Interface ###

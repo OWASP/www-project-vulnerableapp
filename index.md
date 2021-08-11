@@ -18,6 +18,27 @@ As Web Applications are becoming popular these days, there comes a dire need to 
 **VulnerableApp** is built keeping these factors in mind. This project is scalable, extensible, easier to integrate and easier to learn.
 As solving the above issue requires addition of various vulnerabilities, hence it becomes a very good platform to learn various security vulnerabilities.
 
+![Owasp Vulnerable Graphic Representation](/docs/gifs/VulnerableApp.gif)
+
+
+### Glimpse of React based User Interface ###
+![VulnerableApp-facade UI](https://raw.githubusercontent.com/SasanLabs/VulnerableApp-facade/main/docs/images/gif/VulnerableApp-Facade.gif)
+
+### Future Goal
+
+Going further, this application might becomes a database for vulnerabilities. Hence, in future, it can be used for hosting CTFs and can also become a compliance/benchmark for Vulnerability Scanning tools.
+
+## Project Setup
+
+[Setup Guide](https://sasanlabs.github.io/VulnerableApp/HOW-TO-USE.html)
+
+## Technologies used
+- Java8
+- Spring Boot
+- Vanilla Javascript
+
+#### Note: we are not limited to these technologies and if required, open to expand to other technologies.
+    
 ## Currently handled Vulnerability types
 
 1. [JWT Vulnerability](https://github.com/SasanLabs/VulnerableApp/blob/master/src/main/java/org/sasanlabs/service/vulnerability/jwt/)
@@ -35,26 +56,31 @@ As solving the above issue requires addition of various vulnerabilities, hence i
 8. [Open Redirect](https://github.com/SasanLabs/VulnerableApp/tree/master/src/main/java/org/sasanlabs/service/vulnerability/urlRedirection)
     1. [Http 3xx Status code based](https://github.com/SasanLabs/VulnerableApp/blob/master/src/main/java/org/sasanlabs/service/vulnerability/urlRedirection/Http3xxStatusCodeBasedInjection.java)
 
+## Contributing to Project
 
+Contributing to open source is always good from learning perspective as open source is the community to collaborate and grow together.
 
-### Future Goal
-Going further, this application might becomes a database for vulnerabilities. Hence, in future, it can be used for hosting CTFs and can also become a compliance/benchmark for Vulnerability Scanning tools.
+We really appreciate contributions to this project. As this project is in it's initial phase, we have not set any guidelines. So, feel free to shoot a mail at karan.sasan@owasp.org or raise an [issue](https://github.com/SasanLabs/VulnerableApp/issues) and we will try our best to onboard you to this project. If you are already onboarded, we actively welcome your Pull Requests. Visit [Design Documentation](https://sasanlabs.github.io/VulnerableApp/DesignDocumentation.html) for internal implementation details.
 
-# Contribution
-Everyone is welcome and encouraged to participate in our [Project](https://github.com/SasanLabs/VulnerableApp).
+You can also raise an issue, in case you are looking for learning some kind of vulnerability which is not present in VulnerableApp. We will try to add that vulnerability ASAP!
 
-# Communication
-Please feel free to reach out to us on our [VulnerableApp Slack Channel](https://owasp.slack.com/messages/#owasp-vulnerableapp/) or send an email to karan.sasan@owasp.org for any queries.
+## Documentation in other languages
 
-OWASP is a fantastic place to learn about application security, to network, and even
-to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider
-a [donation](/donate?reponame=www-project-vulnerableapp&title=OWASP+VulnerableApp) to support our ongoing work.
+1. [Russian](https://github.com/SasanLabs/VulnerableApp/tree/master/docs/i18n/ru/README.md)
+2. [Chinese](https://github.com/SasanLabs/VulnerableApp/tree/master/docs/i18n/zh-CN/README.md)
+3. [Hindi](https://github.com/SasanLabs/VulnerableApp/tree/master/docs/i18n/hi/README.md)
+4. [Punjabi](https://github.com/SasanLabs/VulnerableApp/tree/master/docs/i18n/pa/README.md)
 
-[More Information on Project](https://sasanlabs.github.io/VulnerableApp/)
+## Contact
 
-## Blogs/Documentations and other details
+Please raise an [issue](https://github.com/SasanLabs/VulnerableApp/issues) or send an email to karan.sasan@owasp.org for any queries.
+We will try to resolve the issues ASAP.
+
+## Other details
+
 1. [Documentation](https://sasanlabs.github.io/VulnerableApp)
 2. [Overview Video](https://www.youtube.com/watch?v=AjL4B-WwrrA&ab_channel=OwaspVulnerableApp)
-3. [Overview of Owasp-VulnerableApp - Medium article](https://hussaina-begum.medium.com/an-extensible-vulnerable-application-for-testing-the-vulnerability-scanning-tools-cc98f0d94dbc)
-4. [Overview of Owasp-VulnerableApp - Blogspot post](https://hussaina-begum.blogspot.com/2020/10/an-extensible-vulnerable-application.html)
 
+## Blogs
+1. [Overview of Owasp-VulnerableApp - Medium article](https://hussaina-begum.medium.com/an-extensible-vulnerable-application-for-testing-the-vulnerability-scanning-tools-cc98f0d94dbc)
+2. [Overview of Owasp-VulnerableApp - Blogspot post](https://hussaina-begum.blogspot.com/2020/10/an-extensible-vulnerable-application.html)

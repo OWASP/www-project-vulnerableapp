@@ -77,10 +77,12 @@ You can also raise an issue, in case you are looking for learning some kind of v
 Please raise an [issue](https://github.com/SasanLabs/VulnerableApp/issues) or send an email to karan.sasan@owasp.org for any queries.
 We will try to resolve the issues ASAP.
 
-## Other details
-
+## Documentation and References
 1. [Documentation](https://sasanlabs.github.io/VulnerableApp)
-2. [Overview Video](https://www.youtube.com/watch?v=AjL4B-WwrrA&ab_channel=OwaspVulnerableApp)
+2. [Design Documentation](https://sasanlabs.github.io/VulnerableApp/DesignDocumentation.html)
+3. [Owasp VulnerableApp](https://owasp.org/www-project-vulnerableapp/)
+4. [Overview video for OWASP Spotlight series](https://www.youtube.com/watch?v=HRRTrnRgMjs)
+5. [Overview Video](https://www.youtube.com/watch?v=AjL4B-WwrrA&ab_channel=OwaspVulnerableApp)
 
 ## Blogs
 1. [Overview of Owasp-VulnerableApp - Medium article](https://hussaina-begum.medium.com/an-extensible-vulnerable-application-for-testing-the-vulnerability-scanning-tools-cc98f0d94dbc)

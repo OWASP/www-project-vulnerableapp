@@ -1,0 +1,29 @@
+audience:
+  - breaker
+community:
+  - name: owasp-vulnerableapp
+    platform: slack
+    url: https://owasp.slack.com/archives/C010GGUT7M1
+    description: 'Official Owasp VulnerableApp project channel :vulnerableapp:'
+leaders:
+  - name: Karan Preet Singh Sasan
+    email: karan.sasan@owasp.org
+    github: preetkaran20
+level: 2
+license:
+  - Apache-2.0
+name: OWASP VulnerableApp
+pitch: VulnerableApp is a delibrately Vulnerable Web Application for Vulnerability Scanning Tool developers, its consumers and students.
+repositories:
+  - name: www-project-vulnerableapp
+    url: https://github.com/OWASP/www-project-vulnerableapp
+    description: "OWASP Foundation Web Repository for VulnerableApp project. Project's codebase Repository: https://github.com/SasanLabs/VulnerableApp"
+  - name: VulnerableApp
+    url: https://github.com/SasanLabs/VulnerableApp
+    description: 'OWASP VulnerableApp Project: For Security Enthusiasts by Security Enthusiasts.'
+tags:
+  - VulnerableApp
+  - custom-tag-1
+  - custom-tag-2
+type: code
+website: https://owasp.org/www-project-vulnerableapp
